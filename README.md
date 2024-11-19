@@ -3,7 +3,7 @@
 This is a command line tool to perform RSI operations from user space using RSI
 ioctls as implemented
 [here](https://github.com/islet-project/islet/tree/main/realm/linux-rsi). The
-tool uses the [rust-rsi](../../lib/rust-rsi) library for all RSI related
+tool uses the [rust-rsi](https://github.com/islet-project/rust-rsi) library for all RSI related
 functionalities.
 
 # RSI operations
